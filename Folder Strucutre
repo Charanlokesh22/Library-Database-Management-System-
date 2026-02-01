@@ -1,0 +1,14 @@
+Library-Management-System/
+│
+├── README.md
+├── pom.xml
+└── src/main/java/com/library
+    ├── LibraryApplication.java
+    ├── controller
+    │   └── LibraryController.java
+    ├── service
+    │   └── LibraryService.java
+    ├── model
+    │   └── Book.java
+    └── repository
+        └── BookRepository.java
